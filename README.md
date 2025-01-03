@@ -1,1 +1,1 @@
-# Photon-monte-carlo
+# Photon-monte-carlo code for simulating radiation phenomena
